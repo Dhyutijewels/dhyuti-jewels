@@ -16,7 +16,7 @@ const PRODUCTS = [
     price: "₹1,490",
     description: "Sculptural golden tones for an effortless statement.",
     tag: "Bestseller",
-    image: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&w=800&q=85"
+    image: "assets/earrings-pink.jpg"
   },
   {
     id: "neck-01",
@@ -26,7 +26,7 @@ const PRODUCTS = [
     price: "₹1,890",
     description: "A delicate everyday layer with a little glow.",
     tag: "Everyday icon",
-    image: "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?auto=format&fit=crop&w=800&q=85"
+    image: "assets/necklace-pendant.jpg"
   },
   {
     id: "brace-01",
@@ -36,7 +36,7 @@ const PRODUCTS = [
     price: "₹1,290",
     description: "Clean lines, soft shine, endless styling possibilities.",
     tag: "Just in",
-    image: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&w=800&q=85"
+    image: "assets/earrings-green.jpg"
   },
   {
     id: "ring-01",
@@ -46,7 +46,7 @@ const PRODUCTS = [
     price: "₹990",
     description: "A modern finishing touch that feels uniquely yours.",
     tag: "Customer favourite",
-    image: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&w=800&q=85"
+    image: "assets/earrings-colourful.jpg"
   },
   {
     id: "ear-02",
@@ -56,7 +56,7 @@ const PRODUCTS = [
     price: "₹1,690",
     description: "Soft, sculptural details for dinners and day plans.",
     tag: "",
-    image: "https://images.unsplash.com/photo-1630019852942-f89202989a59?auto=format&fit=crop&w=800&q=85"
+    image: "assets/earrings-display.jpg"
   },
   {
     id: "neck-02",
@@ -66,7 +66,7 @@ const PRODUCTS = [
     price: "₹2,290",
     description: "An easy layered look, ready to make your own.",
     tag: "Layering piece",
-    image: "https://images.unsplash.com/photo-1617038220319-276d3cfab638?auto=format&fit=crop&w=800&q=85"
+    image: "assets/necklace-heart.jpg"
   },
   {
     id: "brace-02",
@@ -76,7 +76,7 @@ const PRODUCTS = [
     price: "₹1,190",
     description: "A subtle glimmer for your everyday rotation.",
     tag: "",
-    image: "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&w=800&q=85"
+    image: "assets/jewellery-box-pink.jpg"
   },
   {
     id: "ring-02",
@@ -86,7 +86,7 @@ const PRODUCTS = [
     price: "₹1,390",
     description: "A simple reminder to celebrate the little things.",
     tag: "",
-    image: "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&w=800&q=85"
+    image: "assets/jewellery-box-grey.jpg"
   }
 ];
 
